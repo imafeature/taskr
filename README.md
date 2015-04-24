@@ -20,7 +20,7 @@ Support
 -------
 Yours or mine?
 
-It doesn’t matter! If you need help, feel free to message me. I probably won’t know the answer, but I’ll do my best to find it. I love collaborative learning! As it happens, I love instruction-based learning, too, so if you want to offer help, that’s totally great! I’m open to suggestions and feedback. 
+It doesn’t matter! If you need help or notice a problem, feel free to create an issue. I probably won’t know how to fix it right away, but I’ll get on figuring it out right away. I love collaborative learning! As it happens, I love instruction-based learning, too, so if you want to offer help, that’s totally great! I’m open to suggestions and feedback. 
 
 Licensing 
 -------
