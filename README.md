@@ -28,14 +28,10 @@ This section is included only because all the templates had it. The script is fr
 
 Author
 -------
-The author of Taskr is one Parker McDade, a web design turned software programming student** . Contact info is as follows:  
+The author of Taskr is one Parker McDade, a web design turned software programming student* . Contact info is as follows:  
 
-Git: imafeature
-
-Web: imagine-knowing.me/Parker
-
-LinkedIn*** : /l2xMcDade
+Git: imafeature | Web: imagine-knowing.me/Parker | LinkedIn** : /l2xMcDade
 
 
-** If you’re reading this after Spring 2016 and there’s no evidence that I’ve killed myself, remind me to update this.
-*** What can I say? A girl’s gotta eat.
+* If you’re reading this after Spring 2016 and there’s no evidence that I’ve killed myself, remind me to update this.
+** What can I say? A girl’s gotta eat.
