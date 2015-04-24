@@ -35,5 +35,5 @@ Web: imagine-knowing.me/Parker<br/>
 LinkedIn\*\*: /l2xMcDade
 
 
-\*If you’re reading this after Spring 2016 and there’s no evidence that I’ve killed myself, remind me to update this.
+\*If you’re reading this after Spring 2016 and there’s no evidence that I’ve killed myself, remind me to update this.<br/>
 **What can I say? A girl’s gotta eat.
