@@ -1,7 +1,8 @@
 # TASKR
-The Applescript behind an OS X service for Outlook 2011 (my first Applescript and my first repo!)
+*The Applescript behind an OS X service for Outlook 2011 (my first Applescript and my first repo!)*
 
-See the appropriate RELEASE_NOTES-v* file for change logs and high-priority issues with the release. 
+See the appropriate RELEASE_NOTES-v* file for change logs and high-priority issues with the release.
+
 For usage instructions and requirements, see the aptly-named USAGE file. 
 
 What is it?
