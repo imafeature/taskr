@@ -20,7 +20,7 @@ Support
 -------
 Yours or mine?
 
-It doesn’t matter! If you need help, feel free to message me. I probably won’t know the answer, but I’ll do my best to find it. I love collaborative learning! As it happens, I love instruction-based learning, too, so if you want to offer help, that’s totally great! I’m open to suggestions and feedback. <!--Just send your question/comment to support@imagineknowing.me.-->
+It doesn’t matter! If you need help, feel free to message me. I probably won’t know the answer, but I’ll do my best to find it. I love collaborative learning! As it happens, I love instruction-based learning, too, so if you want to offer help, that’s totally great! I’m open to suggestions and feedback. 
 
 Licensing 
 -------
@@ -28,11 +28,10 @@ This section is included only because all the templates had it. The script is fr
 
 Author
 -------
-The author of Taskr is one Parker McDade, a web design turned software programming student* . Contact info is as follows:
-    Git: imafeature
-    Web: imagine-knowing.me/Parker
-    LinkedIn **: /l2xMcDade
+The author of Taskr is one Parker McDade, a web design turned software programming student** . Contact info is as follows:    Git: imafeature
+Web: imagine-knowing.me/Parker
+LinkedIn**: /l2xMcDade
 
 
-* If you’re reading this after Spring 2016 and there’s no evidence that I’ve killed myself, remind me to update this.
-** What can I say? A girl’s gotta eat.
+**If you’re reading this after Spring 2016 and there’s no evidence that I’ve killed myself, remind me to update this.
+***What can I say? A girl’s gotta eat.
